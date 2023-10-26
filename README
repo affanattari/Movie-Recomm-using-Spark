@@ -1,4 +1,4 @@
-# BIG DATA ANALYTICS PROJECT
+#  BIG DATA ANALYTICS PROJECT
 Despite the abundance of movies available on streaming platforms, users often struggle to discover content aligned with their preferences, leading to reduced engagement and satisfaction. The lack of personalized recommendations and efficient systems poses a challenge for users to navigate the vast array of options, necessitating a solution that can provide tailored and accurate movie suggestions to enhance the overall user experience and engagement
 # TECHNIQUES
 I have used Apache Spark ML, alternating least squares (ALS) for collaborative filtering for making recommendations. Alternating least square(ALS) matrix factorization basically take a large (or potentially huge) matrix and factor it into some smaller representation of the original matrix through alternating least squares. We end up with two or more lower dimensional matrices whose product equals the original one. ALS comes inbuilt in Apache Spark.
